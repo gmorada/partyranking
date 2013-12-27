@@ -15,5 +15,6 @@
     "mongoose-json-select": "0.2.1",
     "forky": "0.0.2",
     "ng-resource": "0.0.9",
+    "fbgraph": "0.2.8"
   }
 }

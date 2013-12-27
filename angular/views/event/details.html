@@ -1,0 +1,10 @@
+<ul>
+	<li ng:repeat="person in people | filter:{gender : 'male'}:true">
+		{{person.name}}
+	</li>
+</ul>
+<ul>
+	<li ng:repeat="person in people | filter:{gender : 'female'}:true">
+		{{person.name}}
+	</li>
+</ul>

@@ -1,7 +1,7 @@
 var Express, server, config;
 
-Express    = require('express');
-config     = require('../config');
+Express  = require('express');
+config   = require('../config');
 
 if (!server) {
     server   = new Express();
